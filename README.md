@@ -8,3 +8,8 @@ This example code/schematic uses an audio signal as a reference input, and mixes
 [Check out the buid/demo video here!](https://youtu.be/zg-kOUHmbnk?si=Bm5KdtJASU26bwev)
 
 #### Definitely not required, but if you want to support my work using the Sponsor button I certainly appreciate it!
+
+
+---
+
+Copyright (C) 2025 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
